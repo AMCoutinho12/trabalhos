@@ -1,0 +1,53 @@
+Claro, vou explicar brevemente as diferenças entre três linguagens de programação populares e fornecer um exemplo mínimo de código para cada uma delas. Por favor, note que, devido às limitações do ambiente de texto, não posso executar códigos diretamente, mas posso fornecer os exemplos de código e explicar como você pode executá-los em seu próprio ambiente de desenvolvimento.
+
+1. Python:
+
+Python é uma linguagem de programação de alto nível, conhecida por sua sintaxe clara e legível.
+É usada em uma variedade de aplicativos, incluindo desenvolvimento web, análise de dados, aprendizado de máquina e automação.
+Exemplo Mínimo de Código Python:
+
+python
+Copy code
+# Este é um exemplo simples que imprime "Olá, Mundo!" na tela.
+print("Olá, Mundo!")
+Para executar este código Python, você precisa ter o Python instalado em seu sistema. Basta salvar o código em um arquivo com a extensão ".py" (por exemplo, "meu_programa.py") e executá-lo usando o comando python meu_programa.py no terminal.
+
+2. Java:
+
+Java é uma linguagem de programação orientada a objetos, conhecida por sua portabilidade e segurança.
+É amplamente usado no desenvolvimento de aplicativos de desktop, aplicativos móveis (Android), aplicativos corporativos e em sistemas embarcados.
+Exemplo Mínimo de Código Java:
+
+java
+Copy code
+public class OlaMundo {
+    public static void main(String[] args) {
+        System.out.println("Olá, Mundo!");
+    }
+}
+Para executar o código Java, você precisa ter o Kit de Desenvolvimento Java (JDK) instalado em seu sistema. Compile o código usando javac OlaMundo.java e execute-o com java OlaMundo.
+
+3. JavaScript:
+
+JavaScript é uma linguagem de programação de alto nível usada principalmente no desenvolvimento web para interatividade do lado do cliente.
+É amplamente utilizado em navegadores para adicionar funcionalidades dinâmicas a páginas da web.
+Exemplo Mínimo de Código JavaScript (executado em um navegador):
+
+html
+Copy code
+<!DOCTYPE html>
+<html>
+  <body>
+
+    <h1>Olá, Mundo!</h1>
+
+    <script>
+      // Este código JavaScript exibe um alerta com "Olá, Mundo!" ao carregar a página.
+      alert("Olá, Mundo!");
+    </script>
+
+  </body>
+</html>
+Você pode criar um arquivo HTML com o código JavaScript incorporado e abri-lo em um navegador da web para ver a saída.
+
+Lembrando que a execução de código depende do ambiente de desenvolvimento específico para cada linguagem e da configuração do sistema. Certifique-se de que a linguagem apropriada esteja instalada e configurada corretamente em seu ambiente para executar os exemplos de código.
